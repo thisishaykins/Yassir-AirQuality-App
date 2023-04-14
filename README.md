@@ -69,6 +69,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Accessing the App
+<p>App is running on port:3000, except to be changed in .env.</p>
+
+* Nest App: <http://localhost:3000/> or <http://127.0.0.1:3000/>
+* Nest Swagger API Doc: <http://localhost:3000/api#/> or <http://127.0.0.1:3000/api#/>
+
 ## Test
 
 ```bash
